@@ -25,4 +25,4 @@ Static methods are defined in the super class and can only be called by the supe
 
 ## Summary
 
-This project provided additional practice focused on the key principles of **object classes**
+This project provided additional practice focused on the key principles of object classes including **inheritance**, **constructors** and others
